@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with @FaceintheSpace
 - 📫 How to reach me, dont
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I may call myself a raccoon, but I'm actually a tanuki
+- ⚡ Fun fact: I may call myself a raccoon, but I'm actually a tanuki.  I only made this so my friend can bully me to code
 
 <!---
 BabyBlueArtist/BabyBlueArtist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
